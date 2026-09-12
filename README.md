@@ -156,6 +156,7 @@ The project is designed and simulated using **Tinkercad Circuits**.
 ## 👩‍💻 Author
 
 **P. Rithika**
+
 B.Tech – Electronics and Communication Engineering
 Rajeev Gandhi Memorial College of Engineering and Technology
 
